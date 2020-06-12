@@ -56,4 +56,12 @@ padding-bottom: 50px;
     border-radius: 5px; 
 }
 
+#share-main-section i{
+    background: #333;
+    color: #fff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
 
